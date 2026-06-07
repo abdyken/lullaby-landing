@@ -11,8 +11,8 @@
           <span class="p2c-tag"><i></i>Without it</span>
           <h3>Five tabs and a racing heart.</h3>
           <div class="panic-stack">
-            <div class="gtab gt1"><div class="url"><b></b>google.com/search</div><div class="qx">newborn hiccups at night</div><div class="res">About 4,200,000 results…</div></div>
-            <div class="gtab gt2"><div class="url"><b></b>forum thread · 2014</div><div class="qx">“Is this normal?? please help”</div><div class="res">17 replies, none of them agree</div></div>
+            <div class="gtab gt1"><div class="url"><b></b>google.com/search</div><div class="qx">newborn hiccups at night</div><div class="res">Three tabs open. None of them agree.</div></div>
+            <div class="gtab gt2"><div class="url"><b></b>old forum answer</div><div class="qx">“Is this normal?? please help”</div><div class="res">someone says it’s normal, someone says call now</div></div>
             <div class="gtab gt3"><div class="url"><b></b>random article</div><div class="qx">When hiccups are an emergency</div><div class="res">Conflicting advice. Bright screen. Wide awake.</div></div>
           </div>
         </div>

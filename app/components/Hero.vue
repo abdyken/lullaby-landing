@@ -5,7 +5,7 @@
       <div class="hero-copy">
         <span class="pill"><i></i>For the first year · 0–12 months</span>
         <h1 class="hero-h">The <em>3AM</em> companion for new parents.</h1>
-        <p class="hero-sub">Log feeds, sleep and diapers with one thumb, in the dark. Ask the scary questions, get a calm answer back.</p>
+        <p class="hero-sub">Log feeds, sleep and diapers with one thumb, in the dark. When hiccups, spit-up, or ‘is this normal?’ hits at 3AM, get one calm next step.</p>
         <div class="hero-cta">
           <a href="#waitlist" class="btn btn-primary">Join the waitlist <span class="arr">→</span></a>
           <a href="#how" class="btn btn-ghost">See how it works</a>
@@ -14,7 +14,7 @@
           <span class="seed"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7" /></svg></span>
           <div class="txt"><b>Early access is now open</b> for first-time parents.</div>
         </div>
-        <div class="hero-micro"><span>Free at launch</span><span class="d"></span><span>One email, when it's ready</span><span class="d"></span><span>Based on trusted pediatric sources</span></div>
+        <div class="hero-micro"><span>Built for the first months</span><span class="d"></span><span>No spam</span><span class="d"></span><span>We’ll only email when beta opens</span></div>
       </div>
 
       <div class="phone-stage" aria-hidden="true">
@@ -23,11 +23,11 @@
         <div class="leaf leaf-b"></div>
         <div class="float-card fc-dad">
           <span class="fi"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.4" /><path d="M5.5 20c0-3.6 2.9-6.5 6.5-6.5s6.5 2.9 6.5 6.5" /></svg></span>
-          <span class="ft">Dad saw the update<small>Timeline synced · just now</small></span>
+          <span class="ft">Partner saw the update<small>Timeline synced · just now</small></span>
         </div>
         <div class="float-card fc-red">
           <span class="fi"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7" /></svg></span>
-          <span class="ft">No red flags found<small>Hiccups · checked</small></span>
+          <span class="ft">Nothing urgent showing<small>Hiccups · checked</small></span>
         </div>
         <div class="float-card fc-feed">
           <span class="fi"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" /><path d="M12 8v4l3 2" /></svg></span>

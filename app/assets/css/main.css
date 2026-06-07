@@ -104,7 +104,7 @@
   .leaf-b{width:80px;height:80px;background:rgba(217,128,95,0.28);right:0%;bottom:8%;}
   /* floating product cards */
   .float-card{position:absolute;z-index:4;display:flex;align-items:center;gap:11px;
-    background:rgba(255,252,246,0.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+    background:rgba(255,252,246,0.98);
     border:1px solid var(--line-2);border-radius:15px;padding:11px 15px 11px 12px;
     box-shadow:0 20px 44px rgba(43,33,28,0.20);animation:floaty 6.5s ease-in-out infinite;}
   .float-card .fi{width:32px;height:32px;border-radius:10px;flex:0 0 32px;display:flex;align-items:center;justify-content:center;}

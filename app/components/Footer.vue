@@ -11,7 +11,7 @@
         <a href="#trust">Safety</a>
         <a href="#waitlist">Waitlist</a>
       </div>
-      <div class="copyright">© 2026 Lullaby · Made for tired parents</div>
+      <div class="copyright">© 2026 Lullaby · Made for the next wake-up</div>
     </div>
   </footer>
 </template>

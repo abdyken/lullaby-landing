@@ -19,7 +19,7 @@
           </select>
         </label>
         <label class="field">
-          <span>Biggest night struggle</span>
+          <span>What’s hardest after midnight?</span>
           <input v-model="nightStruggle" type="text" placeholder="Optional" autocomplete="off" />
         </label>
         <button type="submit" class="btn btn-primary">Join the waitlist <span class="arr">→</span></button>
