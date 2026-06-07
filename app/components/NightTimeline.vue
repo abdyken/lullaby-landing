@@ -5,7 +5,7 @@
       <div class="tl-head">
         <div class="moonglow reveal"></div>
         <span class="kicker reveal">A real 3AM</span>
-        <h2 class="reveal">Seven minutes, start to back asleep.</h2>
+        <h2 class="reveal">Seven minutes from wake-up to back asleep.</h2>
         <p class="reveal">No guessing. No panic. Back to bed.</p>
       </div>
       <div class="timeline">

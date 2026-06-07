@@ -17,7 +17,7 @@
         <div class="hero-micro"><span>Free at launch</span><span class="d"></span><span>One email, when it's ready</span><span class="d"></span><span>Based on trusted pediatric sources</span></div>
       </div>
 
-      <div class="phone-stage">
+      <div class="phone-stage" aria-hidden="true">
         <div class="halo"></div>
         <div class="leaf leaf-a"></div>
         <div class="leaf leaf-b"></div>
@@ -42,7 +42,7 @@
               <div class="pav"></div>
               <div>
                 <div class="nm">Baby Noah</div>
-                <div class="st"><i></i>Sleeping · 4h 12m old today</div>
+                <div class="st"><i></i>Sleeping · last feed 2h ago</div>
               </div>
               <div class="moonbtn"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#EC9E80" stroke-width="1.7"><path d="M21 12.8A8.5 8.5 0 1111.2 3a6.5 6.5 0 109.8 9.8z" /></svg></div>
             </div>
