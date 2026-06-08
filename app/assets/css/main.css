@@ -56,8 +56,8 @@
   .kicker{font-size:13px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--terra-d);}
 
   /* ---------------- NAV ---------------- */
-  nav{position:sticky;top:0;z-index:60;background:rgba(247,240,229,0.82);backdrop-filter:blur(14px);
-    -webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line-2);}
+  /* nav appearance is owned by Navbar.vue (Tailwind) — keep only sticky layout here */
+  nav{position:sticky;top:0;z-index:60;}
   .nav-in{display:flex;align-items:center;justify-content:space-between;height:74px;}
   .brand{display:flex;align-items:center;}
   .brand .word{font-family:var(--serif);font-weight:500;font-size:24px;letter-spacing:-0.3px;color:#2B211C;line-height:1;}
