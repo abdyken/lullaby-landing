@@ -2,9 +2,9 @@
   <section id="why" class="sec">
     <div class="wrap">
       <div class="sec-head reveal">
-        <span class="kicker">Why Lullaby</span>
+        <span class="kicker">Not another baby tracker</span>
         <h2>From panic to calm.</h2>
-        <p>It's 3AM and something feels off. Here's the difference.</p>
+        <p>Other apps log feeds and stop there. Lullaby is for the moment something feels off.</p>
       </div>
       <div class="p2c reveal">
         <div class="p2c-side p2c-panic">

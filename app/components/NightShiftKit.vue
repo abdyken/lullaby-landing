@@ -8,7 +8,7 @@
       </div>
       <div class="kit">
         <div class="ritual tall reveal">
-          <div class="rk"><span class="rn">01</span><span class="rl">One-tap log</span></div>
+          <div class="rk"><span class="rn">01</span><span class="rl">One-thumb logging</span></div>
           <h3>Tap once. Go back to bed.</h3>
           <p>One big button. No typing. Logged before you're really awake.</p>
           <div class="frag-log">
@@ -22,7 +22,7 @@
         </div>
         <div class="kit-col">
           <div class="ritual reveal">
-            <div class="rk"><span class="rn">02</span><span class="rl">Shared timeline</span></div>
+            <div class="rk"><span class="rn">02</span><span class="rl">Shared night log</span></div>
             <h3>One source of truth.</h3>
             <p>Whoever's awake logs it. You both see it — no “did you already feed him?”</p>
             <div class="frag-tl">
@@ -32,8 +32,8 @@
             </div>
           </div>
           <div class="ritual reveal">
-            <div class="rk"><span class="rn">03</span><span class="rl">Calm check</span></div>
-            <h3>A calmer answer than Google.</h3>
+            <div class="rk"><span class="rn">03</span><span class="rl">Calm 3AM answers</span></div>
+            <h3>A calmer answer than a search spiral.</h3>
             <p>Ask the question at 3AM. Get a steady answer — and a clear nudge if it's time to call someone.</p>
             <div class="frag-calm">
               <div class="calm-q">“Baby hiccups?”</div>

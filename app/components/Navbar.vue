@@ -1,5 +1,5 @@
 <template>
-  <nav class="border-b border-white/[0.08] bg-[#1B1318]/70 backdrop-blur-md">
+  <nav class="border-b border-white/[0.06] bg-[#1B1318]/55 backdrop-blur-md">
     <div class="wrap nav-in">
       <a class="brand" href="#" aria-label="Lullaby home">
         <span class="font-display text-[22px] font-medium tracking-tight text-[#F7F0E5]">Lullaby</span>

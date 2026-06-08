@@ -23,7 +23,7 @@
     --shadow-lg:0 40px 90px rgba(43,33,28,0.20);
   }
   *{box-sizing:border-box;margin:0;padding:0;}
-  html{scroll-behavior:smooth;}
+  html{scroll-behavior:smooth;scroll-padding-top:90px;}
   body{
     font-family:var(--sans);color:var(--ink);background:var(--cream);
     line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden;
